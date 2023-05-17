@@ -1,0 +1,56 @@
+_repo: Rebilius-Cruso-b-Robinson-Crusoe-in-Latin-a-book-to-lighten-tedium-to-a-learner_70468
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Newman, Francis William
+    alias: Newman, F. W. (Francis William)
+    birthdate: 1805
+    deathdate: 1897
+    gutenberg_agent_id: '4201'
+    url: http://www.gutenberg.org/2009/agents/4201
+    wikipedia: https://en.wikipedia.org/wiki/Francis_William_Newman
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defoë, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+description: 'See also #50732.
+
+  According to preface, takes "only the general idea from Defoe."'
+gutenberg_issued: '2023-04-05'
+identifiers:
+  gutenberg: '70468'
+language: la
+pgterms:marc905: 20230328045502defoe
+pgterms:marc906: '1884'
+pgterms:marc907: UK
+production_note: Original version (50732) produced by Mark C. Orton and the Online
+  Distributed Proofreading Team at http://www.pgdp.net (This book was produced from
+  scanned images of public domain material from the Google Books project.). Spelling
+  upgrade by Aurēliānus Agricola.
+publication_note: '  $aUK :$bTrübner & co, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Latin language -- Readers'
+- !lcc 'PR'
+- GITenberg
+title: 'Rebilius Crūsō : $b Robinson Crusoe, in Latin; a book to lighten tedium to
+  a learner'
+url: http://www.gutenberg.org/ebooks/70468
