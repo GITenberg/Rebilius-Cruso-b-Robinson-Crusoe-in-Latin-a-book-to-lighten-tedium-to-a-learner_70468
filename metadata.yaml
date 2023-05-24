@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4201'
     url: http://www.gutenberg.org/2009/agents/4201
     wikipedia: https://en.wikipedia.org/wiki/Francis_William_Newman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -26,6 +29,8 @@ creator:
 description: 'See also #50732.
 
   According to preface, takes "only the general idea from Defoe."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70468#Rebilius-Cruso-b-Robinson-Crusoe-in-Latin-a-book-to-lighten-tedium-to-a-learner
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70468'
